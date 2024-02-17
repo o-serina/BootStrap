@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../bootstrap-5.1.3-dist"
+		},
+		{
+			"path": "../bootstrap-5.1.3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
